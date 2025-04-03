@@ -1,54 +1,26 @@
+Code for Interpretable Link Prediction via Neural-Symbolic Reasoning
 
-Keras NS (Neural Symbolic)
------------
-
-`Keras NS` is an extension library for Keras to develop
-Neural Symbolic models.
-
-
-Quick start
------------
-
-You can install ``keras_ns`` along with all its dependencies from
-PyPi ecc ecc
-
-.. code:: bash
-
-    pip install -e ./
-
-Example
------------
-
-
-
-
-
-Experiments
-------------
 
 Training
 ~~~~~~~~~~
 
-To train the model(s) in the paper, run the scripts and notebooks inside the folder `experiments`.
-
-Results
-~~~~~~~~~~
-
-Results on test set and logic formulas will be saved in the folder `experiments/results`.
+To train the model(s) in the paper, run the runner inside the folder `experiments`. 
+For example, run the command  python experiments/runner.py --d countries_s2 --m dcr --kge complex --resnet False store_ranks True
 
 Data
 ~~~~~~~~~~
 
-The original datasets can be downloaded from the links provided in the supplementary material of the paper.
+The datasets can be found in the folder `experiments/data`.
 
 
 Theory
 --------
-Theoretical foundations can be found in the following papers.
+Theoretical foundations can be found in the manuscript: Interpretable Link Prediction via
+Neural-Symbolic Reasoning, by Rodrigo Castellano Ontiveros, Ehsan Bonabi Mobaraki, Francesco Giannini, Pietro Barbiero, Marco Gori, and Michelangelo Diligenti. 
 
 Authors
 -------
-
+Rodrigo Castellano Ontiveros and Michelangelo Diligenti.
 
 
 Licence
