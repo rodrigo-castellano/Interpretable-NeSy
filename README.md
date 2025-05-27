@@ -1,30 +1,29 @@
 Code for Interpretable Link Prediction via Neural-Symbolic Reasoning
 
 
-Training
-~~~~~~~~~~
+## Training
 
 To train the model(s) in the paper, run the runner inside the folder `experiments`. 
-For example, run the command  python experiments/runner.py --d countries_s2 --m dcr --kge complex --resnet False store_ranks True
+For example, run the command  
+```bash
+python experiments/runner.py --d countries_s2 --m dcr --kge complex --resnet False
+```
 
-Data
-~~~~~~~~~~
+## Data
 
 The datasets can be found in the folder `experiments/data`.
 
+## Theory
 
-Theory
---------
 Theoretical foundations can be found in the manuscript: Interpretable Link Prediction via
 Neural-Symbolic Reasoning, by Rodrigo Castellano Ontiveros, Ehsan Bonabi Mobaraki, Francesco Giannini, Pietro Barbiero, Marco Gori, and Michelangelo Diligenti. 
 
-Authors
--------
+## Authors
+
 Rodrigo Castellano Ontiveros and Michelangelo Diligenti.
 
 
-Licence
--------
+## Licence
 
 Copyright 2020
 
