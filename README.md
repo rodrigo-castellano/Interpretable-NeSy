@@ -1,4 +1,4 @@
-Code for Interpretable Link Prediction via Neural-Symbolic Reasoning
+Code for Distilling KGE black boxes into interpretable NeSy models
 
 
 ## Training
@@ -15,8 +15,7 @@ The datasets can be found in the folder `experiments/data`.
 
 ## Theory
 
-Theoretical foundations can be found in the manuscript: Interpretable Link Prediction via
-Neural-Symbolic Reasoning, by Rodrigo Castellano Ontiveros, Ehsan Bonabi Mobaraki, Francesco Giannini, Pietro Barbiero, Marco Gori, and Michelangelo Diligenti. 
+Theoretical foundations can be found in the manuscript: Distilling KGE black boxes into interpretable NeSy models, by Rodrigo Castellano Ontiveros, Francesco Giannini, and Michelangelo Diligenti. 
 
 ## Authors
 
