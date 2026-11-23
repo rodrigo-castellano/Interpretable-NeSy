@@ -1,5 +1,7 @@
 # Interpretable Link Prediction via Neural-Symbolic Reasoning
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24465160.svg)](https://doi.org/10.5281/zenodo.24465160)
+
 Explainable Artificial Intelligence (World Conference on Explainable AI, xAI 2025), Communications in Computer and Information Science, vol. 2577, pp. 319–331, Springer, 2025  
 [Paper page](https://rodrigocastellano.com/papers/interpretable-link-prediction/) · [PDF](https://rodrigocastellano.com/papers/interpretable-link-prediction/interpretable-link-prediction-xai2025.pdf) · [Official version](https://doi.org/10.1007/978-3-032-08324-1_14)
 
@@ -42,7 +44,7 @@ limitations under the License.
 
 ## Citation
 
-If you use this code, please cite:
+If you use this code, please cite the paper below. The code itself is archived on Zenodo: [doi:10.5281/zenodo.24465160](https://doi.org/10.5281/zenodo.24465160).
 
 ```bibtex
 @inproceedings{castellanoontiveros2025interpretable,
