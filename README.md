@@ -1,5 +1,9 @@
 # Interpretable Link Prediction via Neural-Symbolic Reasoning
 
+Explainable Artificial Intelligence (World Conference on Explainable AI, xAI 2025), Communications in Computer and Information Science, vol. 2577, pp. 319–331, Springer, 2025  
+[Paper page](https://rodrigocastellano.com/papers/interpretable-link-prediction/) · [PDF](https://rodrigocastellano.com/papers/interpretable-link-prediction/interpretable-link-prediction-xai2025.pdf) · [Official version](https://doi.org/10.1007/978-3-032-08324-1_14)
+
+
 ## Training
 
 To train the model(s) in the paper, run the runner inside the folder `experiments`. 
@@ -35,3 +39,22 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
 See the License for the specific language governing permissions and
 limitations under the License.
+
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@inproceedings{castellanoontiveros2025interpretable,
+  title     = {Interpretable Link Prediction via Neural-Symbolic Reasoning},
+  author    = {Castellano Ontiveros, Rodrigo and Bonabi Mobaraki, Ehsan and Giannini, Francesco and Barbiero, Pietro and Gori, Marco and Diligenti, Michelangelo},
+  booktitle = {Explainable Artificial Intelligence ({xAI} 2025)},
+  series    = {Communications in Computer and Information Science},
+  volume    = {2577},
+  pages     = {319--331},
+  publisher = {Springer, Cham},
+  year      = {2025},
+  doi       = {10.1007/978-3-032-08324-1_14},
+  url       = {https://doi.org/10.1007/978-3-032-08324-1_14}
+}
+```

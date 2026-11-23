@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Interpretable Link Prediction via Neural-Symbolic Reasoning (code)"
+repository-code: "https://github.com/rodrigo-castellano/Interpretable-NeSy"
+authors:
+  - family-names: "Castellano Ontiveros"
+    given-names: "Rodrigo"
+    orcid: "https://orcid.org/0000-0003-2324-633X"
+  - family-names: "Bonabi Mobaraki"
+    given-names: "Ehsan"
+  - family-names: "Giannini"
+    given-names: "Francesco"
+  - family-names: "Barbiero"
+    given-names: "Pietro"
+  - family-names: "Gori"
+    given-names: "Marco"
+    orcid: "https://orcid.org/0000-0001-6337-5430"
+  - family-names: "Diligenti"
+    given-names: "Michelangelo"
+    orcid: "https://orcid.org/0000-0002-5805-8032"
+preferred-citation:
+  type: conference-paper
+  title: "Interpretable Link Prediction via Neural-Symbolic Reasoning"
+  authors:
+    - family-names: "Castellano Ontiveros"
+      given-names: "Rodrigo"
+      orcid: "https://orcid.org/0000-0003-2324-633X"
+    - family-names: "Bonabi Mobaraki"
+      given-names: "Ehsan"
+    - family-names: "Giannini"
+      given-names: "Francesco"
+    - family-names: "Barbiero"
+      given-names: "Pietro"
+    - family-names: "Gori"
+      given-names: "Marco"
+      orcid: "https://orcid.org/0000-0001-6337-5430"
+    - family-names: "Diligenti"
+      given-names: "Michelangelo"
+      orcid: "https://orcid.org/0000-0002-5805-8032"
+  collection-title: "Explainable Artificial Intelligence (xAI 2025), Communications in Computer and Information Science, vol. 2577"
+  start: 319
+  end: 331
+  year: 2025
+  doi: "10.1007/978-3-032-08324-1_14"
+  url: "https://rodrigocastellano.com/papers/interpretable-link-prediction/"
