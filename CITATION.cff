@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the paper below."
 title: "Interpretable Link Prediction via Neural-Symbolic Reasoning (code)"
 repository-code: "https://github.com/rodrigo-castellano/Interpretable-NeSy"
+license: Apache-2.0
 authors:
   - family-names: "Castellano Ontiveros"
     given-names: "Rodrigo"
